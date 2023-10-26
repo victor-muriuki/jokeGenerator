@@ -5,5 +5,7 @@ body {
   
   .joke-container {
     margin-top: 50px;
+    border-bottom: 4px;
+    color: aqua;
   }
   
