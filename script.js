@@ -6,11 +6,11 @@ document.getElementById('getJoke').addEventListener('click', () => {
     })
     .then(response => response.json())
     .then(data => {
-      const jokeContainer = document.getElementById('jokeContainer');
-      jokeContainer.innerHTML = `<p>${data.joke}</p>`;
-    })
-    .catch(error => console.error('Error:', error));
-  });
+      const jokeContainer = document.getElementById('jokeContainer')
+      jokeContainer.innerHTML = `<p>${data.joke}</p>`
+    }) //a variabale that stores the fetched joke
+    .catch(error => console.error('Error:', error)) 
+  })// displays message in the event of an error
   
 
 
