@@ -6,7 +6,7 @@ body {
   .joke-container {
     margin-top: 50px;
     border-bottom: 4px;
-    color: crimson;
+    color: rgba(172, 19, 49, 0);
   }
   
   h1{
@@ -15,4 +15,9 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: crimson;
 
+  }
+ 
+  .frame{
+    border-style: dashed;
+    border-width: 5px;
   }
