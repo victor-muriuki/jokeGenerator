@@ -26,32 +26,7 @@ Welcome to the Dad Joke Generator Web App! This simple web application fetches j
 - JavaScript
 
 # Getting Started
-In order for you to use the content on this web app ensure you have the following:
-
-- A computer that runs on either of the following; (Windows 
-  7+, Linux, Mac OS)
-- nodejs 9.0+
-- Some bit of patience for your own sanity.
-
-## Installation
-
-To use this repo on your machine requires some simple steps
-
-### Alternative One
-
-- Open a terminal / command line interface on your computer
-- Clone the repo by using the following:
-
-        git clone https://github.com/victor-muriuki/flatdango
-
-- Be patient as it creates a copy on your local machine for you.
-Open it in ``Visual Studio Code``
-
-        code .
-
-- (Alternate Option) Open it in any editor of your choice.
-- Hurray! You are one step closer to being as intelligent as Einstein.
-
+Follow the link to use the web app
 
 # Authors
 This project was created and revised by:
